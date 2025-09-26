@@ -136,3 +136,32 @@ Customer confusion stems from:
 - Online portal for form submission
 - FAQ and help resources
 - Reduce need for direct staff interaction
+
+---
+
+## 2. Assumptions & Validation Plan
+
+The following assumptions have been made based on the initial problem statement. Each assumption requires validation during the client meeting.
+
+| ID | Assumption | Rationale | Validation Question | Priority |
+|----|------------|-----------|---------------------|----------|
+| A-001 | "Onboarding" for employees means time to full productivity, not just initial orientation | Industry standard distinguishes between orientation (days) and full onboarding (weeks) | "What does 'fully onboarded' mean to you? What can an employee do after 3 months that they couldn't do earlier?" | High |
+| A-002 | The 3-month timeline is primarily due to lack of documentation and training structure, not job complexity | Similar roles typically take 2-4 weeks; excessive time suggests process issues | "Do you currently have documented procedures? How do new employees learn your processes?" | High |
+| A-003 | "Client onboarding" refers to the process of registering new pet owners, not daily check-in procedures | Context suggests intake/registration rather than daily operations | "Walk me through your client onboarding process from first contact to first day of service" | High |
+| A-004 | The employee "flavour" variation is significant enough to cause customer confusion | Customers notice the inconsistency, suggesting substantial variation | "Can you give me examples of how employees handle client onboarding differently?" | High |
+| A-005 | Current process is primarily manual/paper-based or uses disconnected systems | Complexity and inconsistency often stem from lack of system support | "What systems or tools do you currently use for client onboarding?" | Medium |
+| A-006 | The business lacks centralized documentation and SOPs | Would explain both employee training difficulty and process inconsistency | "Do you have written procedures or an operations manual?" | Medium |
+| A-007 | Improving client onboarding will significantly reduce employee onboarding time | Learning a complex, inconsistent process likely contributes to long training time | "What percentage of new employee training focuses on client intake procedures?" | Medium |
+| A-008 | The business is growing and onboarding is becoming a bottleneck | Otherwise, inefficiency might be tolerated | "How many new employees and new clients do you onboard monthly?" | Low |
+| A-009 | Staff have attempted to create their own solutions/workarounds | "Flavour" suggests creativity in dealing with broken process | "Have employees developed their own tools or shortcuts? What do those look like?" | Low |
+
+### Assumption Categories
+
+**Critical Assumptions (Must Validate First):**
+- A-001, A-002, A-003, A-004: Define the actual problem scope
+
+**Important Assumptions (Validate for Solution Design):**
+- A-005, A-006, A-007: Impact technical approach
+
+**Nice-to-Know Assumptions (Provide Context):**
+- A-008, A-009: Help prioritize and understand urgency
