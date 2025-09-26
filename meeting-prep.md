@@ -165,3 +165,82 @@ The following assumptions have been made based on the initial problem statement.
 
 **Nice-to-Know Assumptions (Provide Context):**
 - A-008, A-009: Help prioritize and understand urgency
+
+---
+
+## 3. Questions for Client Meeting
+
+### 3.1 Business Context & Scale
+
+**Understanding the scope and impact:**
+
+1. How many employees do you currently have? How many are customer-facing?
+2. How many new employees do you typically onboard per year?
+3. How many new clients do you onboard per month/year?
+4. What's your current client capacity? Are you at capacity or growing?
+5. How long has this business been operating?
+
+### 3.2 Employee Onboarding Deep Dive
+
+**Clarifying the 3-month problem:**
+
+6. What does "fully onboarded" mean to you? What specific competencies or milestones define this?
+7. Walk me through what a new employee does in their first week, first month, and first three months
+8. Who is responsible for training new employees? Is there a dedicated trainer?
+9. What do new employees struggle with most during onboarding?
+10. Do you currently have any training materials, employee handbook, or documented procedures?
+11. Have you tried anything to reduce the onboarding time? What worked or didn't work?
+12. What systems, software, or tools do employees need to learn?
+
+### 3.3 Client Onboarding Process Deep Dive
+
+**Understanding the complications and inconsistencies:**
+
+13. Walk me through your entire client onboarding process from first contact to the pet's first day at daycare
+14. What information do you collect from new clients? (Forms, documents, requirements)
+15. How many steps or touchpoints are involved in onboarding a client?
+16. Can you give me specific examples of how different employees handle client onboarding differently? What are these "flavours"?
+17. What systems or tools do you use for client onboarding? (Paper forms, spreadsheets, software, etc.)
+18. How do you currently store client and pet information?
+19. What are the most common bottlenecks or pain points in the current process?
+20. How long does it typically take to onboard a new client from first contact to first service?
+
+### 3.4 Customer Experience
+
+**Understanding customer perspective:**
+
+21. What feedback have you received from customers about the onboarding process?
+22. At what point in the process do customers typically get confused or frustrated?
+23. Do customers need to visit in person, or can anything be done remotely/online?
+24. What causes customers to abandon the onboarding process before completing it?
+25. How do customers currently communicate with you during onboarding? (Phone, email, in-person, etc.)
+
+### 3.5 Current Systems & Tools
+
+**Technical landscape assessment:**
+
+26. What software or systems do you currently use? (Scheduling, billing, record-keeping, communication, etc.)
+27. Are these systems integrated or do they work independently?
+28. Do you have a website? If so, what functionality does it have?
+29. How tech-savvy are your employees? Customers?
+30. What's your budget range for potential solutions?
+
+### 3.6 Requirements & Constraints
+
+**Boundaries and priorities:**
+
+31. Are there any regulatory or legal requirements for pet daycare in your area? (Vaccination records, liability waivers, etc.)
+32. What would success look like for you? What's your ideal outcome?
+33. If you could only fix one thing, what would have the biggest impact?
+34. Are there any constraints we should be aware of? (Budget, timeline, resources, etc.)
+35. Who will be involved in implementing any changes? Who are the key decision-makers?
+
+### 3.7 Follow-Up Clarification Questions
+
+**Questions that emerged from initial analysis:**
+
+36. You mentioned employee onboarding takes 3 months - what percentage of that time is spent on learning client intake procedures vs. other aspects of the job?
+37. When employees use their own "flavour" - have any employees developed particularly effective methods we should learn from?
+38. Have you documented what the "ideal" client onboarding process should look like, even if it's not currently followed?
+39. Do you track any metrics around onboarding? (Time to complete, error rates, customer satisfaction, etc.)
+40. Are there seasonal variations in your workload that affect onboarding capacity?
